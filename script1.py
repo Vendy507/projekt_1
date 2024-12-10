@@ -11,5 +11,4 @@ print(czech_republic["language"])
 zensky_rod = {"zena", "růže", "písen", "kost", "kost"}
 print(zensky_rod)
 
-
-
+print("Ahoj")
